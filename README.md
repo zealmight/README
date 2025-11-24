@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Merhaba, Ben **Adınız**!
+# 💫 Merhaba, Ben **Onat**!
 
 🎯 **Full-Stack / Backend / Frontend Developer**  
 💡 Yeni teknolojileri öğrenmeyi seven, temiz kod tutkunu.  
@@ -9,7 +9,7 @@
 
 ---
 
-## 🔧 Kullandığım Programlama Dilleri
+## 🔧 Programlama Dilleri
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -34,11 +34,5 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## ✨ Teşekkürler!
-Profilimi ziyaret ettiğin için teşekkür ederim.  
-Her türlü iş birliği veya proje önerisi için bana ulaşabilirsin. 💬
 
 </div>
