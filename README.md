@@ -1,5 +1,5 @@
 # 💫 Hakkımda:
-<br>Bilgisayar Teknolojileri mezunu, Cisco onaylı Siber Güvenlik sertifikasına sahip. <br>Sürekli öğrenme motivasyonu yüksek, sektördeki gelişmeleri yakından takip eden ve <br>yenilikçi çözümler üretmeye odaklanan bir teknoloji profesyoneli.Bilgisayar Teknolojileri mezunu, <br>Cisco onaylı Siber Güvenlik sertifikasına sahip. Sürekli öğrenme motivasyonu yüksek, sektördeki gelişmeleri <br>yakından takip eden ve yenilikçi çözümler üretmeye odaklanan bir teknoloji profesyoneli.<br>
+<br>Bilgisayar Teknolojileri mezunu, Cisco onaylı Siber Güvenlik sertifikasına sahip. <br>Sürekli öğrenme motivasyonu yüksek, sektördeki gelişmeleri yakından takip eden ve <br>yenilikçi çözümler üretmeye odaklanan bir teknoloji profesyoneli.<br>
 
 <hr>
 
